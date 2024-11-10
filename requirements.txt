@@ -1,0 +1,6 @@
+Python 3.7+
+OpenCV
+MediaPipe
+PyCaw
+Numpy
+Comtypes
